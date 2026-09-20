@@ -1,5 +1,5 @@
 # Hologram-design_Yaoheng-Yang
-Hologram design file for Yaoheng Yang's sonogenetic-PET study
+Hologram design file for 3D printing
 
 Citation: 
 Sonogenetic-PET maps brain-wide and peripheral metabolic responses to genetically defined neural activation 
